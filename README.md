@@ -37,3 +37,57 @@ This repository will contain:
 ---
 
 Stay tuned as we bring structure to ideas—one wireframe at a time.
+
+---
+## 🧾 Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+---
+
+### 🔹 Low-Fidelity Wireframes
+
+These are basic, grayscale sketches or outlines used during the early stages of design.
+
+**Characteristics**:
+- Simple boxes and lines
+- Focus on layout, structure, and content hierarchy
+- No images, colors, or branding
+- Often hand-drawn or created with basic tools
+
+**When it's used**:
+- During brainstorming or ideation
+- For quick feedback from team members or stakeholders
+
+---
+
+### 🔹 High-Fidelity Wireframes
+
+These are detailed, polished wireframes that closely resemble the final product.
+
+**Characteristics**:
+- Includes images, colors, fonts, and branding elements
+- Interactive elements and real content are often shown
+- Shows precise spacing, alignment, and UI components
+
+**When it's used**:
+- After initial concepts are approved
+- For stakeholder presentations, prototyping, or developer handoff
+
+---
+
+## 🖼️ Wireframe Type: Project Example
+
+![Mobile App Wireframes](26.06.2025_22.24.28_REC.png)
+
+The wireframe image shown above is an example of a **high-fidelity wireframe**.
+
+**Why?**  
+- It displays full-color mobile screens with specific content, icons, and user interface components.
+- Screens include visual details for **Splash**, **Sign In**, **Login**, **Join**, **Home**, **Details**, and **Reservation** pages.
+- It reflects a near-complete user flow and can be used for prototyping or development.
+
+**Conclusion**:  
+This type of wireframe is ideal for testing user experience, demonstrating visual direction to stakeholders, and handing off to developers for implementation.
+
+
